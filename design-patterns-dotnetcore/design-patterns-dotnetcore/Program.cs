@@ -1,4 +1,5 @@
-﻿using System;
+﻿using design_patterns_dotnetcore.SOLID.Single.Responsibility.Principle;
+using System;
 
 namespace design_patterns_dotnetcore
 {
@@ -6,6 +7,7 @@ namespace design_patterns_dotnetcore
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Hello World!");
         }
     }
