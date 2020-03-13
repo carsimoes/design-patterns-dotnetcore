@@ -1,4 +1,4 @@
-- Modern implementation of design patterns with C# and .NET.
+
 ## The project
 I'm Carlos. This project began in March 2020, it is designed only for study as a modern implementation of design patterns with C# and .NET.
 
