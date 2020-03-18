@@ -7,8 +7,9 @@ namespace design_patterns_dotnetcore
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Hello World!");
+
+            Creational.Builder.BuilderCoding.Demo demo = new Creational.Builder.BuilderCoding.Demo();
+            demo.Init();
         }
     }
 }
